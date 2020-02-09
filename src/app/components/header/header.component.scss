@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.header
+{
+  display: flex;
+  flex-direction: row;
+  height: 80px;
+  width: 100%;
+  padding: 20px 8px;
+  .title
+  {
+    font-family: 'Roboto', verdana;
+  }
+}
